@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TestPostJson.Controllers.TestPostController",
+    "Method": "testPost",
+    "RelativePath": "api/TestPost/testPost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rawJson",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

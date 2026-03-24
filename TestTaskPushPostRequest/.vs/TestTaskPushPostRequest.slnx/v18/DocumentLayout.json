@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|c:\\users\\user\\desktop\\testtaskpushpostrequest\\testtaskpushpostrequest\\workersendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|solutionrelative:testtaskpushpostrequest\\workersendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|c:\\users\\user\\desktop\\testtaskpushpostrequest\\testtaskpushpostrequest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|solutionrelative:testtaskpushpostrequest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|c:\\users\\user\\desktop\\testtaskpushpostrequest\\testtaskpushpostrequest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|solutionrelative:testtaskpushpostrequest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|c:\\users\\user\\desktop\\testtaskpushpostrequest\\testtaskpushpostrequest\\data\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|solutionrelative:testtaskpushpostrequest\\data\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|c:\\users\\user\\desktop\\testtaskpushpostrequest\\testtaskpushpostrequest\\data\\settingsendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC04CE3-C09D-A46C-3491-DFB2D03DE152}|TestTaskPushPostRequest\\TestTaskPushPostRequest.csproj|solutionrelative:testtaskpushpostrequest\\data\\settingsendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingSendMessage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\Data\\SettingSendMessage.cs",
+              "RelativeDocumentMoniker": "TestTaskPushPostRequest\\Data\\SettingSendMessage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\Data\\SettingSendMessage.cs",
+              "RelativeToolTip": "TestTaskPushPostRequest\\Data\\SettingSendMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:27:06.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\Data\\Message.cs",
+              "RelativeDocumentMoniker": "TestTaskPushPostRequest\\Data\\Message.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\Data\\Message.cs",
+              "RelativeToolTip": "TestTaskPushPostRequest\\Data\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:25:00.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\appsettings.json",
+              "RelativeDocumentMoniker": "TestTaskPushPostRequest\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\appsettings.json",
+              "RelativeToolTip": "TestTaskPushPostRequest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-22T20:25:21.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\Program.cs",
+              "RelativeDocumentMoniker": "TestTaskPushPostRequest\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\Program.cs",
+              "RelativeToolTip": "TestTaskPushPostRequest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T20:02:45.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerSendMessage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\WorkerSendMessage.cs",
+              "RelativeDocumentMoniker": "TestTaskPushPostRequest\\WorkerSendMessage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestTaskPushPostRequest\\TestTaskPushPostRequest\\WorkerSendMessage.cs",
+              "RelativeToolTip": "TestTaskPushPostRequest\\WorkerSendMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T20:02:33.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

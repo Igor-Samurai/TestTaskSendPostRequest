@@ -1,0 +1,48 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "TestPostJson | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7146"
+    },
+    {
+      "url": "http://localhost:5133"
+    }
+  ],
+  "paths": {
+    "/api/TestPost/testPost": {
+      "post": {
+        "tags": [
+          "TestPost"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": { }
+            },
+            "text/json": {
+              "schema": { }
+            },
+            "application/*+json": {
+              "schema": { }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "TestPost"
+    }
+  ]
+}

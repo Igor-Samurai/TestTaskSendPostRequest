@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\TestPostJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264FD1C6-76CC-C919-669B-3FB71B6EF66F}|TestPostJson\\TestPostJson.csproj|c:\\users\\user\\desktop\\testpostjson\\testpostjson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{264FD1C6-76CC-C919-669B-3FB71B6EF66F}|TestPostJson\\TestPostJson.csproj|solutionrelative:testpostjson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264FD1C6-76CC-C919-669B-3FB71B6EF66F}|TestPostJson\\TestPostJson.csproj|c:\\users\\user\\desktop\\testpostjson\\testpostjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264FD1C6-76CC-C919-669B-3FB71B6EF66F}|TestPostJson\\TestPostJson.csproj|solutionrelative:testpostjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264FD1C6-76CC-C919-669B-3FB71B6EF66F}|TestPostJson\\TestPostJson.csproj|c:\\users\\user\\desktop\\testpostjson\\testpostjson\\infrastructure\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264FD1C6-76CC-C919-669B-3FB71B6EF66F}|TestPostJson\\TestPostJson.csproj|solutionrelative:testpostjson\\infrastructure\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264FD1C6-76CC-C919-669B-3FB71B6EF66F}|TestPostJson\\TestPostJson.csproj|c:\\users\\user\\desktop\\testpostjson\\testpostjson\\controllers\\testpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264FD1C6-76CC-C919-669B-3FB71B6EF66F}|TestPostJson\\TestPostJson.csproj|solutionrelative:testpostjson\\controllers\\testpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestPostJson\\TestPostJson\\Infrastructure\\AppConfig.cs",
+              "RelativeDocumentMoniker": "TestPostJson\\Infrastructure\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestPostJson\\TestPostJson\\Infrastructure\\AppConfig.cs",
+              "RelativeToolTip": "TestPostJson\\Infrastructure\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T20:28:06.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestPostJson\\TestPostJson\\appsettings.json",
+              "RelativeDocumentMoniker": "TestPostJson\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestPostJson\\TestPostJson\\appsettings.json",
+              "RelativeToolTip": "TestPostJson\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T20:26:12.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestPostController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestPostJson\\TestPostJson\\Controllers\\TestPostController.cs",
+              "RelativeDocumentMoniker": "TestPostJson\\Controllers\\TestPostController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestPostJson\\TestPostJson\\Controllers\\TestPostController.cs",
+              "RelativeToolTip": "TestPostJson\\Controllers\\TestPostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:52:54.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestPostJson\\TestPostJson\\Program.cs",
+              "RelativeDocumentMoniker": "TestPostJson\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestPostJson\\TestPostJson\\Program.cs",
+              "RelativeToolTip": "TestPostJson\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:52:02.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -30,7 +30,7 @@ namespace TestTaskPushPostRequest
                 Message message = new Message
                 {
                     Id = Guid.NewGuid(),
-                    TimeSend = DateTime.UtcNow,
+                    TimeSend = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ss.fff"),
                     Msg = $"{_settingSendMessage.Message}_{DateTime.UtcNow.ToString("yyyy-MM-dd")}"
                 };
 
